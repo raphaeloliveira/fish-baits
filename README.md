@@ -1,5 +1,5 @@
 # fish-baits
-List of functions for [Fish Shell](https://fishshell.com/)
+List of functions for [Fish Shell](https://fishshell.com/).
 
 ## Commands
 
